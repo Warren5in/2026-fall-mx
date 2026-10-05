@@ -1,9 +1,4 @@
-/**
- * Hide elements visually, but keep them available for screen reader software.
- *
- * Used for information required for screen reader users to understand and use
- * the site where visual display is not wanted.
- */
+
 .visually-hidden {
   position: absolute !important;
   overflow: hidden;

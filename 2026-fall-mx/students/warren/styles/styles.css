@@ -19,3 +19,9 @@ footer{
         border: 5px solid rgb(186, 63, 63);
     }
 }
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
