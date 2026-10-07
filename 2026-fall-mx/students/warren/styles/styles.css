@@ -1,4 +1,4 @@
-body {
+x8kauij6h7jbtg body {
     background-color:light-dark(pink, purple);
     color: light-dark(black, white)
 }
@@ -24,4 +24,7 @@ footer{
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+}
+[type] {
+    border: 6px double rgb(219, 76, 219)
 }
